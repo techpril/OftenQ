@@ -16,6 +16,7 @@ html {
     --gray: #eaecf2;
     --white: #fff;
     --red: rgb(184, 48, 48);
+    --gray-dark: rgb(168, 166, 166);
     font-size: 62.5%;
 }
 

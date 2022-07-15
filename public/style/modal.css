@@ -25,7 +25,7 @@
 
 .modal-wrapper .modal p {
     margin-bottom: 2.4rem;
-    color: gray;
+    color: var(--gray-dark);
 }
 
 .modal-wrapper .modal input {
